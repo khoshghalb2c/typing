@@ -1,5 +1,5 @@
 # Styping
-If you want to write a text and the user sees that it is typing on the screen ([like this](#)) with  `JavaScript`, use this function.
+If you want to write a text and the user sees that it is typing on the screen ([like this](/example.html)) with  `JavaScript`, use this function.
 
 ## Getting Started
 Read the description below to get started with `Styping`.
