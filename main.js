@@ -1,0 +1,19 @@
+/*!
+  * sTYPING > forget(https://github.com/sazl-ir);
+  * Copyright 2020-2021;
+  */
+  function styping(obj, millisec){
+    var text = obj.innerHTML;
+    obj.innerHTML = "";
+    var array = text.split("");
+    var i = 0; 
+    var interval = setInterval(function(){
+      if(i<array.length){
+        if(array[i]=="^")
+          obj.innerHTML += "<br/>";
+        else obj.innerHTML += array[i];
+        i++;
+      }else clrearInterval(interval);
+    }, millisec);
+  }
+/*!* POWERED BY SAZL.IR *!*/
