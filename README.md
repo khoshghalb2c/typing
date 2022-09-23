@@ -8,7 +8,7 @@ Read the description below to get started with `Styping`.
 
 you must add 
 ```
-<script src="https://cdn.jsdelivr.net/gh/sazl-ir/typing@main/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/khoshghalb2c/typing@main/main.js"></script>
 ```
 to end of `body` tag in `HTML` or add it end of `head` tag in `HTML` and call `Styping(Object, Integer)` and give a Object(*The object you want to be typed*) and a Integer(*Duration of writing each letter*) to it to type that Object.
 
