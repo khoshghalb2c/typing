@@ -14,6 +14,8 @@ to end of `body` tag in `HTML` or add it end of `head` tag in `HTML` and call `S
 
 **Notice!** You must set `Object.innerHTML`; then call the `Styping(...)` and give to it, that `Object`.
 
+**Notice2!** You must use `^` instead of `\n` and `<br/>` to enter.
+
 ### Example:
 
 you can goto [`example.html`](/example.html) and see example of this function. 
