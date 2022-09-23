@@ -1,8 +1,8 @@
 /*!
-  * sTYPING > forget(https://github.com/sazl-ir);
+  * Styping > forget(https://github.com/sazl-ir);
   * Copyright 2020-2021;
   */
-  function styping(obj, millisec){
+  function Styping(obj, millisec){
     var text = obj.innerHTML;
     obj.innerHTML = "";
     var array = text.split("");
