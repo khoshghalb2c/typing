@@ -1,5 +1,5 @@
 /*!
-  * Styping > forget(https://github.com/sazl-ir);
+  * Styping > Owner is https://github.com/sazl-ir;
   * Copyright 2020-2021;
   */
   function Styping(obj, millisec){
