@@ -1,5 +1,5 @@
 /*!
-  * Styping > Owner is https://github.com/sazl-ir;
+  * Styping > Owner is https://github.com/khoshghalb2c;
   * Copyright 2020-2021;
   */
   function Styping(obj, millisec){
@@ -16,4 +16,4 @@
       }else clrearInterval(interval);
     }, millisec);
   }
-/*!* POWERED BY SAZL.IR *!*/
+/*!* POWERED BY khoshghalb2c.ir *!*/
