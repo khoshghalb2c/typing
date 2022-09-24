@@ -13,7 +13,7 @@
           obj.innerHTML += "<br/>";
         else obj.innerHTML += array[i];
         i++;
-      }else clrearInterval(interval);
+      }else clearInterval(interval);
     }, millisec);
   }
 /*!* POWERED BY khoshghalb2c.ir *!*/
