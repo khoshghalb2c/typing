@@ -20,5 +20,5 @@ you can goto [`example.html`](/example.html) and see example of this function.
 
 ## Licence
 ```
-Copyright © 2023 Khoshghalb2c.ir. All Rights Reserved.
+Copyright © 2020 Khoshghalb2c.ir. All Rights Reserved.
 ```
