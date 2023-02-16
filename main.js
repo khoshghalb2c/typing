@@ -1,6 +1,6 @@
 /*!
   * Styping > Owner is https://github.com/khoshghalb2c;
-  * Copyright 2020-2021;
+  * Copyright © 2020;
   */
   function Styping(obj, millisec){
     var text = obj.innerHTML;
